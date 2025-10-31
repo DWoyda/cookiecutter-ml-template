@@ -1,6 +1,11 @@
 # Cookiecutter ML Project Template
 
-A cookiecutter template for structuring Machine Learning projects with a modular and scalable architecture. Designed to streamline the development of data science pipelines – from raw data to production-ready code.
+
+A simplified and lightweight cookiecutter template for structuring Machine Learning projects designed specifically for **solo data scientists** and small projects.  
+
+This template was built as a **lean alternative** to the official [cookiecutter-data-science](https://cookiecutter-data-science.drivendata.org/) structure, which, while powerful, is often unnecessarily complex for individual or experimental work.  
+
+The goal is to provide a **clear, minimal, and practical structure** that supports the full ML workflow, from raw data, through preprocessing and model training, to deployment or simple app demos without overwhelming architecture or unused layers.
 
 ---
 
@@ -58,3 +63,10 @@ pip install cookiecutter
 <br>
 <img width="298" height="463" alt="image" src="https://github.com/user-attachments/assets/bd2da4bb-1a78-4a81-b1ca-78f7b9a657cf" />
 </div>
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Credits
+Created and maintained by [DWoyda](https://github.com/DWoyda).  
+Inspired by the original [cookiecutter-data-science](https://cookiecutter-data-science.drivendata.org/) template. 
