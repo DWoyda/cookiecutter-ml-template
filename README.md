@@ -50,11 +50,11 @@ pip install cookiecutter
 │
 ├── requirements.txt      # Python dependencies
 ├── LICENSE
-└── README.md             # You're here!
+└── README.md            
 ```
 
 <div align="center">
 <img width="593" height="105" alt="image" src="https://github.com/user-attachments/assets/c209a4c6-ca9d-4f85-bf94-22f391fea03d" />
 <br>
-<img width="299" height="441" alt="image" src="https://github.com/user-attachments/assets/91a7f8f3-73f4-46c2-9f90-0c4205d5912f" />
+<img width="298" height="463" alt="image" src="https://github.com/user-attachments/assets/bd2da4bb-1a78-4a81-b1ca-78f7b9a657cf" />
 </div>
