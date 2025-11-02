@@ -1,0 +1,13 @@
+# ignore
+data/raw/*
+data/processed/*
+data/splits/*
+
+models/*
+
+# not ignore
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/splits/.gitkeep
+
+!models/.gitkeep
